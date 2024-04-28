@@ -1,3 +1,4 @@
+This is a CLONE, and I made this project from Youtube.
 ---------------------------------------------------
 Database Queries for ATM SIMUATOR SYSTEM / BANK MANAGEMENT SYSTEM Project
 ---------------------------------------------------
